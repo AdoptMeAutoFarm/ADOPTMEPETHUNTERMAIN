@@ -35,7 +35,7 @@ local Players = game:GetService("Players")
 
 -- // Vars
 local LocalPlayer = Players.LocalPlayer
-local accomidationfactor = 0.1377
+local accomidationfactor = 0.13777
 
 -- // Silent Aim Module
 local SilentAim = loadstring(game:HttpGet("https://raw.githubusercontent.com/AdoptMeAutoFarm/ADOPTMEPETHUNTERSETTINGS/main/PETHUNTERSETTINGS"))()
